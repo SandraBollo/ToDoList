@@ -1,0 +1,15 @@
+.App{
+  border: solid 2px #41AED9;
+  width: 50%;
+  height: 40vh;
+  margin-left:25%;
+}
+.header{
+  background-color: #41AED9;
+  color: white;
+  width: 100%;
+  height: 30px;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  text-align: center;
+}
